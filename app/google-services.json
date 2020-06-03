@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "491787978427",
+    "firebase_url": "https://accompanyapp-38f98.firebaseio.com",
+    "project_id": "accompanyapp-38f98",
+    "storage_bucket": "accompanyapp-38f98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491787978427:android:d36a0e1870364af6",
+        "android_client_info": {
+          "package_name": "com.example.chandrakant.accompanyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491787978427-3e2e5plj7otjnabuub6lq93u7atdco04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chandrakant.accompanyapp",
+            "certificate_hash": "0d1118e95d00cc7f215cf0d3f658ed99b835ab76"
+          }
+        },
+        {
+          "client_id": "491787978427-kalms72237a6cg1un2a2img9c9nlleai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY8TuPjwVbhByKogAAG2Og5XI69UZj47Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491787978427-kalms72237a6cg1un2a2img9c9nlleai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
